@@ -1,4 +1,5 @@
-# Cal_PnP
+# Camera_Cal_pnp
+
 
 This repository contains our C++ implementation of semi-automatic camera calibration based on Perspective-n-Point (PnP). It can be used to compute the homography matrix and manually correct radial distortion. 
 
