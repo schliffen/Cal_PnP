@@ -1,0 +1,20 @@
+﻿  CamCal.cpp
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(174): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(191): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(260): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(261): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(266): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(267): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(282): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(288): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(300): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(306): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(337): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(321): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(430): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\projlab\citydetectiontracking\cameraclibration\camera_calibration_gps\windows\include\camcal.cpp(418): warning C4715: 'C2dPtSel::process': not all control paths return a value
+  cameraClibration.vcxproj -> E:\ProjLAB\CityDetectionTracking\cameraClibration\Camera_Calibration_gps\windows\x64\Debug\cameraClibration.exe
+  cameraClibration.vcxproj -> E:\ProjLAB\CityDetectionTracking\cameraClibration\Camera_Calibration_gps\windows\x64\Debug\cameraClibration.pdb (Full PDB)
